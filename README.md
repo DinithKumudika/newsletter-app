@@ -8,7 +8,8 @@ Used Languages, framewoeks & modules
 1. HTML
 2. CSS
 3. JS
-4. Express (install express using npm i express)
-5. https
-6. EJS (install EJS using npm i ejs
-7. Request (install request using npm i request)
+4. Bootstrap
+5. Express (install express using npm i express)
+6. https
+7. EJS (install EJS using npm i ejs
+8. Request (install request using npm i request)
